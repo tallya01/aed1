@@ -1,0 +1,2 @@
+O QuickSort realiza n² comparações para qualquer vetor de tamanho n cujos elementos estejam em ordem crescente ou decrescente
+e para qual escolhe-se um dos extremos como pivô.

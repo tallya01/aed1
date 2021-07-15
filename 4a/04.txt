@@ -1,0 +1,6 @@
+Linhas 10-12: alocação dinâmica de uma matriz 2x2
+Linhas 13-15: preenchimento de cada elemento da matriz com a soma
+    dos seus índices
+Linhas 16-18: impressão da matriz no seguinte padrão: elemento<espaço><tab>
+    0   1   1   2   <fim>
+Linhas 19-21: liberação da memória das dimensões internas para a externa

@@ -1,0 +1,9 @@
+a) 5 e 3, respectivamente.
+   OBS: o cálculo usado para obter o índice é (begin + (end - begin)/2) 
+   pois o algoritmo apresentado no slide do professor, que utiliza ((begin + end) / 2)
+   gera loop infinito ao buscar um valor que não está presente no vetor.
+   O algoritmo usado está na questão 2.
+b) 8 e 3, respectivamente
+c) Ele retornará a posição da primeira ocorrência da chave encontrada. No caso da pesquisa sequencial,
+   será sempre o menor índice em que aquela chave aparece. Já na busca binária, a posição retornada é
+   o primeiro índice obtido que contenha aquela chave, não necessariamente o menor.
